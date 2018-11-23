@@ -1,0 +1,835 @@
+fileFormatVersion: 2
+guid: 31e144eb49a099e4696a418b7b2e7141
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Jump_Swing_Fire_0
+    21300002: Jump_Swing_Fire_1
+    21300004: Jump_Swing_Fire_2
+    21300006: Jump_Swing_Fire_3
+    21300008: Jump_Swing_Fire_4
+    21300010: Jump_Swing_Fire_5
+    21300012: Jump_Swing_Fire_6
+    21300014: Jump_Swing_Fire_7
+    21300016: Jump_Swing_Fire_8
+    21300018: Jump_Swing_Fire_9
+    21300020: Jump_Swing_Fire_10
+    21300022: Jump_Swing_Fire_11
+    21300024: Jump_Swing_Fire_12
+    21300026: Jump_Swing_Fire_13
+    21300028: Jump_Swing_Fire_14
+    21300030: Jump_Swing_Fire_15
+    21300032: Jump_Swing_Fire_16
+    21300034: Jump_Swing_Fire_17
+    21300036: Jump_Swing_Fire_18
+    21300038: Jump_Swing_Fire_19
+    21300040: Jump_Swing_Fire_20
+    21300042: Jump_Swing_Fire_21
+    21300044: Jump_Swing_Fire_22
+    21300046: Jump_Swing_Fire_23
+    21300048: Jump_Swing_Fire_24
+    21300050: Jump_Swing_Fire_25
+    21300052: Jump_Swing_Fire_26
+    21300054: Jump_Swing_Fire_27
+    21300056: Jump_Swing_Fire_28
+    21300058: Jump_Swing_Fire_29
+    21300060: Jump_Swing_Fire_30
+    21300062: Jump_Swing_Fire_31
+    21300064: Jump_Swing_Fire_32
+    21300066: Jump_Swing_Fire_33
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 1080
+        width: 71
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3685eee2e0f16454b8e14d05064bc0cf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1076
+        width: 116
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f224ca2c34c13d4e804f6ada199de6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1064
+        width: 148
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c6e3a2c0ba0b44baab1e35ca2b5ac7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_3
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1068
+        width: 144
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c732f492d58ba0847a38c7f56ef318d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_4
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1060
+        width: 148
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7feb6f3b99722458bc6400caf030de
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_5
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1040
+        width: 144
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cd98765b381c34f9d9d1f2dfed40a5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_6
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 1028
+        width: 116
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28e76356fe1600849ba80d25d22c3b45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_7
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 772
+        width: 140
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba35fbd0911e9349b10afa94b4ec68f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_8
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 800
+        width: 156
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3191181b3bb63be4eb0be93c8c4d1bdb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_9
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 823
+        width: 164
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a02e93ece428249b9028e12c7062f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_10
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 820
+        width: 136
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed0cfe68c7b9c534293947c8dedec796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_11
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 822
+        width: 113
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 349d7d20bb4b7d140b426ee777edbcc3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_12
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 825
+        width: 119
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf4dbeff6acd8d47aa710e3c44678b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_13
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 826
+        width: 160
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 014c57687b51f564ca203ee4b94c4b90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 576
+        width: 420
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a04b0e73e9910c49a5a6c9e05fecce2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_15
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 588
+        width: 162
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dde28bd4caa7184db57f80af5018f2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 580
+        width: 163
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3773edd722781541b11fa15af13d6c6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_17
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 571
+        width: 168
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59443f63b0c6e5c4f9edb4cf4eaa1beb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_18
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 566
+        width: 162
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbda830e3a920ab4bade3fdb2fb0e85a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_19
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 566
+        width: 142
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a603d0dbeef7fca4db82eab3ddb46622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_20
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 312
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b47cd3f350cde43becb8ac89f3f391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_21
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 288
+        width: 148
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f0e47b4808e0334fad3b6f5b78e5e67
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_22
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 260
+        width: 144
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50396f38f54742f4e99164fc15f9530e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_23
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 256
+        width: 136
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eac3686234e2bf4690af32e37b573e6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_24
+      rect:
+        serializedVersion: 2
+        x: 1068
+        y: 256
+        width: 124
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: deba0107b28d5a7418782594e607ae84
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_25
+      rect:
+        serializedVersion: 2
+        x: 1324
+        y: 256
+        width: 116
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83af42e8040d80748b74c5c023a308cb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_26
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 276
+        width: 99
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aec83d4b03a6e4ca75bb475d581b5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_27
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 56
+        width: 64
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11a0d618182f8b4c872f7bbab09690e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_28
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 56
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27d26570f5d53b44baff01a21aa0bc36
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_29
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 56
+        width: 57
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9d529d49c5b17419c474e8d92827ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_30
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 56
+        width: 71
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba02d8fd0ae4f4b43855a3c3ddb895e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_31
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 56
+        width: 70
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3707639cb0c266943adee8b04499e6ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_32
+      rect:
+        serializedVersion: 2
+        x: 1367
+        y: 56
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636f8b16be9ca304d8e93e819a57dcaf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Jump_Swing_Fire_33
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 56
+        width: 70
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c946dab8c40d7648a08631ddf52fe5c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: c32c0da9853fb4b47a53f7f888742698
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
